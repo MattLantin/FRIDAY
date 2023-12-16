@@ -1,5 +1,6 @@
 # FRIDAY
-OpenAI Powered Speech to Text User Interface
+OpenAI Powered Speech to Text User Interface.
+Click on image for a VIDEO DEMO!!!
 
 [![DEMO](https://i.pinimg.com/originals/af/eb/5c/afeb5c50fb842ee44e1fb4bb6804322f.jpg)](https://youtube.com/shorts/EHQHIlv7TLs?feature=share)
 
